@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @majazimnoch
-- 👀 I’m interested in programming & plants
-- 🌱 I’m currently learning html, css and JavaScript
-- 💞️ I’m looking to collaborate on Technigo projects
-- 📫 How to reach me: letter in a bottle 
+- 👀 I’m interested in frontend & animations & plants
+- 🌱 I’m currently learning Vue and Typescript 
 
 <!---
 majazimnoch/majazimnoch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
