@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @majazimnoch
-- 👀 I’m interested in frontend & animations & plants
+- 👀 I’m interested in techniques to make pixel-perfect and modern websites
 - 🌱 I’m currently learning Vue and Typescript 
 
 <!---
