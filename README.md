@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@majamzimnoch](https://medium.com/@majamzimnoch)
 
-- 💬 Ask me about **React**, **Web accessibility**, 
+- 💬 Ask me about **React**, **Web accessibility**
 
 - 📫 How to reach me **majamzimnoch@gmail.com**
 
