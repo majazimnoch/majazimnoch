@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maja Zimnoch</h1>
-<h3 align="center">A frontend developer based in Sweden</h3>
+<h3 align="center">A passionate frontend developer based in Stockholm, Sweden</h3>
 
-- 🔭 I’m currently working on [Blog portal](https://chic-truffle-c789d4.netlify.app/)
+- 🔭 I’m currently working on backend for my [Blog portal](https://chic-truffle-c789d4.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://majazimnoch.netlify.app/](https://majazimnoch.netlify.app/)
 
