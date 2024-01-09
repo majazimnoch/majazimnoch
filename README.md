@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Maja Zimnoch</h1>
 <h3 align="center">A passionate frontend developer based in Stockholm, Sweden</h3>
 
-- 🔭 I’m currently working on backend for my [Blog portal](https://chic-truffle-c789d4.netlify.app/)
+- 🔭 I’m currently doing a Coding 30 days challenge. Every day I add a new project with a fascinating code solution (focusing mostly on JavaScript).
 
 - 👨‍💻 All of my projects are available at [https://majazimnoch.netlify.app/](https://majazimnoch.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@majamzimnoch](https://medium.com/@majamzimnoch)
+- 📝 I write articles on [https://medium.com/@majamzimnoch](https://medium.com/@majamzimnoch)
 
-- 💬 Ask me about **React**, **Web accessibility**
+- 💬 Ask me about **JavaScript**, **React**, **Web accessibility**
 
 - 📫 How to reach me **majamzimnoch@gmail.com**
 
