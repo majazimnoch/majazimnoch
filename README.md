@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maja Zimnoch</h1>
 <h3 align="center">A passionate frontend developer based in Stockholm, Sweden</h3>
 
-- 🔭 I’m currently doing a Coding 30 days challenge. Every day I add a new project with a fascinating code solution (focusing mostly on JavaScript).
+- 🔭 I'm just done with my 30-day coding challenge. You can find all of projects I developed here [https://maja-30.netlify.app/](https://maja-30.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://majazimnoch.netlify.app/](https://majazimnoch.netlify.app/)
+- 👨‍💻 My best projects are available at [https://majazimnoch.netlify.app/](https://majazimnoch.netlify.app/)
 
 - 📝 I write articles on [https://medium.com/@majamzimnoch](https://medium.com/@majamzimnoch)
 
