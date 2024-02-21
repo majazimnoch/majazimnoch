@@ -3,6 +3,8 @@
 
 - 🔭 I'm just done with my 30-day coding challenge. You can find all of projects I developed here [https://maja-30.netlify.app/](https://maja-30.netlify.app/)
 
+- 😎 I'm currently working with Vue professionally while working on a Next.js project in my free time.  
+
 - 👨‍💻 My best projects are available at [https://majazimnoch.netlify.app/](https://majazimnoch.netlify.app/)
 
 - 📝 I write articles on [https://medium.com/@majamzimnoch](https://medium.com/@majamzimnoch)
