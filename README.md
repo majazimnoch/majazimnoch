@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maja Zimnoch</h1>
 <h3 align="center">A passionate frontend developer based in Stockholm, Sweden</h3>
 
-- 🔭 I'm just done with my 30-day coding challenge. You can find all of projects I developed here [https://maja-30.netlify.app/](https://maja-30.netlify.app/)
-
-- 😎 I'm currently working with Vue professionally while working on a Next.js project in my free time.  
+- 😎 I'm working with Vue professionally while working on a Next.js project in my free time. I'm currently learning more about Typescript.
 
 - 👨‍💻 My best projects are available at [https://majazimnoch.netlify.app/](https://majazimnoch.netlify.app/)
 
