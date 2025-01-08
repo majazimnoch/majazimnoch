@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Maja Zimnoch</h1>
 <h3 align="center">A passionate frontend developer based in Stockholm, Sweden</h3>
 
-- 😎 I'm working with Vue professionally while working on a Next.js project in my free time. I'm currently learning more about Typescript.
+- 😎 I'm working with Vue professionally while digging more into React in my free time.
 
 - 👨‍💻 My best projects are available at [https://majazimnoch.netlify.app/](https://majazimnoch.netlify.app/)
 
-- 📝 I write articles on [https://medium.com/@majamzimnoch](https://medium.com/@majamzimnoch)
+- 📝 Currently I'm developing a little hobby project about planes.
+
+- My goal for 2025 is to learn tech stuff to develop mobile apps, like React Native.
 
 - 💬 Ask me about **JavaScript**, **React**, **Web accessibility**
 
