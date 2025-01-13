@@ -5,9 +5,9 @@
 
 - 👨‍💻 My best projects are available at [https://majazimnoch.netlify.app/](https://majazimnoch.netlify.app/)
 
-- 📝 Currently I'm developing a little hobby project about planes.
+- 📝 Currently I'm developing a little hobby project about planes. You can find it here: https://github.com/majazimnoch/little-plane-book
 
-- My goal for 2025 is to learn tech stuff to develop mobile apps, like React Native.
+- 🚨 My goal for 2025 is to learn tech stuff to develop mobile apps, like React Native.
 
 - 💬 Ask me about **JavaScript**, **React**, **Web accessibility**
 
